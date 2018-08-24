@@ -1,0 +1,4 @@
+git log --branches=* to check all avaliavle branches
+git git checkout a1e8fb5 #to go back to a commit
+git revert 
+git reset
